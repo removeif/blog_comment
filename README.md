@@ -1,1 +1,1 @@
-this is blog's comment.https://removeif.github.io/
+this is [blog's](https://removeif.github.io/) comment.
